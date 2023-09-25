@@ -1,0 +1,5 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\12_Classes_Abstratas\obj\Debug\net7.0\12_Classes_Abstratas.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\12_Classes_Abstratas\obj\Debug\net7.0\12_Classes_Abstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\12_Classes_Abstratas\obj\Debug\net7.0\12_Classes_Abstratas.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\12_Classes_Abstratas\obj\Debug\net7.0\12_Classes_Abstratas.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\12_Classes_Abstratas\obj\Debug\net7.0\12_Classes_Abstratas.csproj.CoreCompileInputs.cache

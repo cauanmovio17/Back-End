@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\13_Tratamento_Exeção\obj\Debug\net7.0\13_Tratamento_Exeção.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\13_Tratamento_Exeção\obj\Debug\net7.0\13_Tratamento_Exeção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\13_Tratamento_Exeção\obj\Debug\net7.0\13_Tratamento_Exeção.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\13_Tratamento_Exeção\obj\Debug\net7.0\13_Tratamento_Exeção.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\13_Tratamento_Exeção\obj\Debug\net7.0\13_Tratamento_Exeção.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\13_Tratamento_Exeção\bin\Debug\net7.0\13_Tratamento_Exeção.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\13_Tratamento_Exeção\bin\Debug\net7.0\13_Tratamento_Exeção.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\13_Tratamento_Exeção\bin\Debug\net7.0\13_Tratamento_Exeção.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\13_Tratamento_Exeção\bin\Debug\net7.0\13_Tratamento_Exeção.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\13_Tratamento_Exeção\bin\Debug\net7.0\13_Tratamento_Exeção.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\13_Tratamento_Exeção\obj\Debug\net7.0\13_Tratamento_Exeção.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\13_Tratamento_Exeção\obj\Debug\net7.0\refint\13_Tratamento_Exeção.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\13_Tratamento_Exeção\obj\Debug\net7.0\13_Tratamento_Exeção.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\13_Tratamento_Exeção\obj\Debug\net7.0\13_Tratamento_Exeção.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\13_Tratamento_Exeção\obj\Debug\net7.0\ref\13_Tratamento_Exeção.dll

@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\05_For_Arrey\bin\Debug\net7.0\05_For_Arrey.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\05_For_Arrey\bin\Debug\net7.0\05_For_Arrey.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\05_For_Arrey\bin\Debug\net7.0\05_For_Arrey.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\05_For_Arrey\bin\Debug\net7.0\05_For_Arrey.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\05_For_Arrey\bin\Debug\net7.0\05_For_Arrey.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\05_For_Arrey\obj\Debug\net7.0\05_For_Arrey.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\05_For_Arrey\obj\Debug\net7.0\05_For_Arrey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\05_For_Arrey\obj\Debug\net7.0\05_For_Arrey.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\05_For_Arrey\obj\Debug\net7.0\05_For_Arrey.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\05_For_Arrey\obj\Debug\net7.0\05_For_Arrey.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\05_For_Arrey\obj\Debug\net7.0\05_For_Arrey.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\05_For_Arrey\obj\Debug\net7.0\refint\05_For_Arrey.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\05_For_Arrey\obj\Debug\net7.0\05_For_Arrey.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\05_For_Arrey\obj\Debug\net7.0\05_For_Arrey.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\05_For_Arrey\obj\Debug\net7.0\ref\05_For_Arrey.dll

@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\04_funcao_while\obj\Debug\net7.0\04_funcao_while.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\04_funcao_while\obj\Debug\net7.0\04_funcao_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\04_funcao_while\obj\Debug\net7.0\04_funcao_while.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\04_funcao_while\obj\Debug\net7.0\04_funcao_while.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\04_funcao_while\obj\Debug\net7.0\04_funcao_while.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\04_funcao_while\bin\Debug\net7.0\04_funcao_while.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\04_funcao_while\bin\Debug\net7.0\04_funcao_while.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\04_funcao_while\bin\Debug\net7.0\04_funcao_while.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\04_funcao_while\bin\Debug\net7.0\04_funcao_while.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\04_funcao_while\bin\Debug\net7.0\04_funcao_while.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\04_funcao_while\obj\Debug\net7.0\04_funcao_while.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\04_funcao_while\obj\Debug\net7.0\refint\04_funcao_while.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\04_funcao_while\obj\Debug\net7.0\04_funcao_while.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\04_funcao_while\obj\Debug\net7.0\04_funcao_while.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\04_funcao_while\obj\Debug\net7.0\ref\04_funcao_while.dll

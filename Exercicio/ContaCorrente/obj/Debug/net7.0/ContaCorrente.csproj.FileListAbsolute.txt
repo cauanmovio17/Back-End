@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\Exercicio\ContaCorrente\obj\Debug\net7.0\ContaCorrente.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\Exercicio\ContaCorrente\obj\Debug\net7.0\ContaCorrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\Exercicio\ContaCorrente\obj\Debug\net7.0\ContaCorrente.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\Exercicio\ContaCorrente\obj\Debug\net7.0\ContaCorrente.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\Exercicio\ContaCorrente\obj\Debug\net7.0\ContaCorrente.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\Exercicio\ContaCorrente\bin\Debug\net7.0\ContaCorrente.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\Exercicio\ContaCorrente\bin\Debug\net7.0\ContaCorrente.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\Exercicio\ContaCorrente\bin\Debug\net7.0\ContaCorrente.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\Exercicio\ContaCorrente\bin\Debug\net7.0\ContaCorrente.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\Exercicio\ContaCorrente\bin\Debug\net7.0\ContaCorrente.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\Exercicio\ContaCorrente\obj\Debug\net7.0\ContaCorrente.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\Exercicio\ContaCorrente\obj\Debug\net7.0\refint\ContaCorrente.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\Exercicio\ContaCorrente\obj\Debug\net7.0\ContaCorrente.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\Exercicio\ContaCorrente\obj\Debug\net7.0\ContaCorrente.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2° Semestre\Back-End\Exercicio\ContaCorrente\obj\Debug\net7.0\ref\ContaCorrente.dll
