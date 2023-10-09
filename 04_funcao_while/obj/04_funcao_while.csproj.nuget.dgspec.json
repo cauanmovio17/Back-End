@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\04_funcao_while\\04_funcao_while.csproj": {}
+    "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\04_funcao_while\\04_funcao_while.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\04_funcao_while\\04_funcao_while.csproj": {
+    "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\04_funcao_while\\04_funcao_while.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\04_funcao_while\\04_funcao_while.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\04_funcao_while\\04_funcao_while.csproj",
         "projectName": "04_funcao_while",
-        "projectPath": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\04_funcao_while\\04_funcao_while.csproj",
+        "projectPath": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\04_funcao_while\\04_funcao_while.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\04_funcao_while\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\04_funcao_while\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

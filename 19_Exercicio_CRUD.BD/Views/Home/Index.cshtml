@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<style>
+    .vv {
+        height: 500px;
+        width: 150px;
+    }
+</style>
+<div class="text-center">
+    <h1 class="display-4">Academia de Campeões</h1>
+
+    <main>
+        <!--Sessão do carrossel-->
+        <section id="meucarrossel" class="carousel carousel-dark slide" data-bs-ride="carousel">
+
+            <div class="carousel-indicators">
+
+                <button type="button" data-bs-target="#meucarrossel" data-bs-slide-to="0" class="active"></button>
+                <button type="button" data-bs-target="#meucarrossel" data-bs-slide-to="1"></button>
+                <button type="button" data-bs-target="#meucarrossel" data-bs-slide-to="2"></button>
+                <button type="button" data-bs-target="#meucarrossel" data-bs-slide-to="3"></button>
+
+            </div>
+            <div class="carousel-inner">
+
+                <div class="carousel-item active" data-bs-interval="1000">
+                    <img src="https://www.esportelandia.com.br/wp-content/uploads/2023/04/Snapinsta.app_331366382_740071317672541_4252540053973852055_n_1080-e1680725657935-1024x758.jpg"
+                        class="w-100 d-block vv">
+                    <div class="carousel-caption">
+                
+                    </div>
+
+                </div>
+                <div class="carousel-item">
+                    <img src="https://www.acritica.com/image/policy:1.298200.1678903460:1678903460/image.jpg?f=default&w=1200"
+                        class="w-100 d-block vv">
+                </div>
+                <div class="carousel-item">
+                    <img src="https://i.ytimg.com/vi/29lps_TlfI8/hqdefault.jpg" class="w-100 d-block vv">
+
+                </div>
+
+                <div class="carousel-item">
+                    <img src="https://img.nsctotal.com.br/wp-content/uploads/2023/08/cbum-bodybuilding-944x531.jpg"
+                        class="w-100 d-block vv">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#meucarrossel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </button>
+
+            <button class="carousel-control-next" type="button" data-bs-target="#meucarrossel" data-bs-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </button>
+          
+
+        </section>
+
+    </main>
+
+    <a href="/Gym/Index" class="btn btn-info">Atletas</a>
+</div>

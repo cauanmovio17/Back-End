@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\03_Operações\\03_Operações.csproj": {}
+    "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\03_Operações\\03_Operações.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\03_Operações\\03_Operações.csproj": {
+    "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\03_Operações\\03_Operações.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\03_Operações\\03_Operações.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\03_Operações\\03_Operações.csproj",
         "projectName": "03_Operações",
-        "projectPath": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\03_Operações\\03_Operações.csproj",
+        "projectPath": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\03_Operações\\03_Operações.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\03_Operações\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\03_Operações\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

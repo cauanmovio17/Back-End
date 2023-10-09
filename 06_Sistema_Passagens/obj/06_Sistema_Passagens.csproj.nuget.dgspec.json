@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\06_Sistema_Passagens\\06_Sistema_Passagens.csproj": {}
+    "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\06_Sistema_Passagens\\06_Sistema_Passagens.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\06_Sistema_Passagens\\06_Sistema_Passagens.csproj": {
+    "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\06_Sistema_Passagens\\06_Sistema_Passagens.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\06_Sistema_Passagens\\06_Sistema_Passagens.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\06_Sistema_Passagens\\06_Sistema_Passagens.csproj",
         "projectName": "06_Sistema_Passagens",
-        "projectPath": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\06_Sistema_Passagens\\06_Sistema_Passagens.csproj",
+        "projectPath": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\06_Sistema_Passagens\\06_Sistema_Passagens.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\06_Sistema_Passagens\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\06_Sistema_Passagens\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\07_Classes_Objetos\\07_Classes_Objetos.csproj": {}
+    "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\07_Classes_Objetos\\07_Classes_Objetos.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\07_Classes_Objetos\\07_Classes_Objetos.csproj": {
+    "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\07_Classes_Objetos\\07_Classes_Objetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\07_Classes_Objetos\\07_Classes_Objetos.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\07_Classes_Objetos\\07_Classes_Objetos.csproj",
         "projectName": "07_Classes_Objetos",
-        "projectPath": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\07_Classes_Objetos\\07_Classes_Objetos.csproj",
+        "projectPath": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\07_Classes_Objetos\\07_Classes_Objetos.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\07_Classes_Objetos\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2° Semestre\\Back-End\\07_Classes_Objetos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
